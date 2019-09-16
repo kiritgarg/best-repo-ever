@@ -1,4 +1,7 @@
 # best-repo-ever
-India
+<<<<<<< HEAD
 Bst
 india
+=======
+Bst
+>>>>>>> origin/master
